@@ -115,7 +115,7 @@ global styles
 */
 html,
 body {
-  background: #fff;
+  background: #ffffff;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -843,7 +843,7 @@ ul.slick-dots {
 
 /*
 ---------------------------------------------
-about
+about關於我們
 ---------------------------------------------
 */
 
@@ -898,7 +898,7 @@ about
 
 /*
 ---------------------------------------------
-menu
+menu 2023情人節活動
 ---------------------------------------------
 */
 
@@ -1178,25 +1178,25 @@ chefs
 
 /* 
 ---------------------------------------------
-reservation
+reservation 聯絡我們
 --------------------------------------------- 
 */
 
 #reservation .section-heading {
   margin-bottom: 30px;
 }
-
+/* 字-聯絡我們 */
 #reservation .section-heading h6 {
-  color: #fff;
+  color: #fb5849;
 }
-
+/* 字-內文 */
 #reservation .section-heading h2 {
-  color: #fff;
+  color: ＃2a2a2a;
   font-weight: 700;
 }
-
+/* 聯絡我的斜線 */
 #reservation .section-heading h6:before {
-  background-color: #fff;
+  background-color: #b46e13;
 }
 
 #reservation p {
@@ -1206,8 +1206,9 @@ reservation
 
 #reservation {
   margin-top: 120px;
-  padding: 120px 0px;
-  background-image: url(../images/reservation-bg.jpg);
+  padding: 20px 0px;
+  background-color: #fffafa;
+  /* background-image: url(../images/backgroud/reservation_bg01.jpg); */
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1249,7 +1250,7 @@ reservation
 #reservation .phone span a,
 #reservation .message span a {
   font-size: 14px;
-  color: #ffffff;
+  color: #da1515;
   transition: all .3s;
 }
 
@@ -1319,6 +1320,7 @@ reservation
   transition: all .3s;
 }
 
+
 .contact-form button:hover {
   opacity: .9;
 }
@@ -1343,7 +1345,7 @@ reservation
 
 /*
 ---------------------------------------------
-offers
+offers 用餐環境
 ---------------------------------------------
 */
 
